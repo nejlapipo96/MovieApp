@@ -1,0 +1,28 @@
+.movies-page {
+  position: relative;
+}
+
+.modal {
+    width: 85%;
+    height: 500px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    background-color: #ccc;
+    display: none;
+    z-index: 999999999;
+  }
+  
+  .modal.active {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  .modal .modal_iframe {
+    width: 100%;
+    height: 100%;
+    border: none;
+  }
+  

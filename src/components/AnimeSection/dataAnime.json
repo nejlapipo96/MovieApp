@@ -1,0 +1,44 @@
+[
+    {
+        "id" : 21,
+        "title": "Marvel's Spidey and His Amazing Friends",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spidey_lob_crd_01.jpg",
+        "rating": "5.9",
+        "releaseyear": "2021"
+    },
+    {
+        "id" : 22,
+        "title": "Marvel's Avengers",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/animatedavengers_lob_crd_02.jpg",
+        "rating": "7.0",
+        "releaseyear": "2018"
+    },
+    {
+        "id" : 23,
+        "title": "Marvel's Guardians of the Galaxy",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/animatedgotg_lob_crd_01.jpg",
+        "rating": "7.3",
+        "releaseyear": "2018"
+    },
+    {
+        "id" : 24,
+        "title": "Marvel Rising",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/animatedmarvelrising_lob_crd_01.jpg",
+        "rating": "5.4",
+        "releaseyear": "2018"
+    },
+    {
+        "id" : 25,
+        "title": "Marvel's Spider-Man",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/animatedspider-man_lob_crd_01.jpg",
+        "rating": "6.1",
+        "releaseyear": "2018"
+    },
+    {
+        "id" : 26,
+        "title": "Marvel's Moon Girl and Devil Dinosaur ",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/moongirlanddevildinosaur_lob_crd_02.jpg",
+        "rating": "8.6",
+        "releaseyear": "2022"
+    }
+]

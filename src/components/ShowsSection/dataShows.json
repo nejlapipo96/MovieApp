@@ -1,0 +1,64 @@
+[
+    {
+        "id" : 10,
+        "title": "The Falcon and the Winter Soldier",
+        "image": "https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_.jpg",
+        "rating": "7.2",
+        "releaseyear": "2021"
+    },
+
+    {
+        "id" : 11,
+        "title": "Ms Marvel",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "rating": "6.2",
+        "releaseyear": "2022"
+    },
+
+    {
+        "id" : 12,
+        "title": "Moon Knight",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg",
+        "rating": "7.3",
+        "releaseyear": "2022"
+    },
+
+    {
+        "id" : 13,
+        "title": "Hawkeye",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/hawkeye_lob_crd_04.jpg",
+        "rating": "7.5",
+        "releaseyear": "2021"
+    },
+
+    {
+        "id" : 14,
+        "title": "WandaVison",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_wandavision_disneyplus_poster03_20118_66028c77.jpeg",
+        "rating": "7.9",
+        "releaseyear": "2021"
+    },
+
+    {
+        "id" : 15,
+        "title": "Loki",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg",
+        "rating": "8.2",
+        "releaseyear": "2021"
+    },
+    {
+        "id" : 16,
+        "title": "She Hulk: Attorney at Law",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/shehulk_lob_crd_04.jpg",
+        "rating": "5.0",
+        "releaseyear": "2022"
+    },
+    {
+        "id" : 17,
+        "title": "I Am Groot",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/iamgroot_lob_crd_04.jpg",
+        "rating": "6.7",
+        "releaseyear": "2022"
+    }
+
+]

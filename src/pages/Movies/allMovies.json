@@ -1,0 +1,235 @@
+[
+        {
+            "id": 100,
+            "title": "Black Panther: Wakanda Forever",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/blackpantherwakandaforever_lob_crd_05.jpg",
+            "rating": ".0",
+            "releaseyear": "2022",
+            "trailer" : "_Z3QKkl1WyM"
+        },
+        {
+            "id": 101,
+            "title": "Doctor Strange in the Multiverse of Madness",
+            "image": "https://upload.wikimedia.org/wikipedia/en/1/17/Doctor_Strange_in_the_Multiverse_of_Madness_poster.jpg",
+            "rating": "7.0",
+            "releaseyear": "2022",
+            "trailer": "aWzlQ2N6qqg"
+        },
+        {
+            "id": 102,
+            "title": "Spider-man: No Way Home",
+            "image": "https://m.media-amazon.com/images/M/MV5BZWMyYzFjYTYtNTRjYi00OGExLWE2YzgtOGRmYjAxZTU3NzBiXkEyXkFqcGdeQXVyMzQ0MzA0NTM@._V1_FMjpg_UX1000_.jpg",
+            "rating": "8.3",
+            "releaseyear": "2021",
+            "trailer": "JfVOs4VSpmA"
+        },
+        {
+            "id": 103,
+            "title": "Eternals",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/eternals_lob_crd_06.jpg",
+            "rating": "6.3",
+            "releaseyear": "2021",
+            "trailer": "x_me3xsvDgk"
+        },
+        {
+            "id": 104,
+            "title": "Shang-Chi and the Legend of Ten Rings",
+            "image": "https://m.media-amazon.com/images/M/MV5BNTliYjlkNDQtMjFlNS00NjgzLWFmMWEtYmM2Mzc2Zjg3ZjEyXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_FMjpg_UX1000_.jpg",
+            "rating": "7.4",
+            "releaseyear": "2021",
+            "trailer":"giWIr7U1deA"
+        },
+        
+        {
+            "id": 105,
+            "title": "Black Widow",
+            "image": "https://m.media-amazon.com/images/M/MV5BNjRmNDI5MjMtMmFhZi00YzcwLWI4ZGItMGI2MjI0N2Q3YmIwXkEyXkFqcGdeQXVyMTkxNjUyNQ@@._V1_.jpg",
+            "rating": "6.7",
+            "releaseyear": "2021",
+            "trailer": "Fp9pNPdNwjI"
+        },
+        {
+            "id": 106,
+            "title": "Spiderman: Far From Home",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/spider-manfarfromhome_lob_crd_04_3.jpg",
+            "rating": "7.4",
+            "releaseyear": "2019",
+            "trailer": "DYYtuKyMtY8"
+        },
+        {
+            "id": 107,
+            "title": "Avengers: Endgame",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTc5MDE2ODcwNV5BMl5BanBnXkFtZTgwMzI2NzQ2NzM@._V1_.jpg",
+            "rating": "8.4",
+            "releaseyear": "2019",
+            "trailer": "TcMBFSGVi1c"
+        },
+        {
+            "id": 108,
+            "title": "Captain Marvel",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainmarvel_lob_crd_06.jpg",
+            "rating": "6.8",
+            "releaseyear": "2019",
+            "trailer": "Z1BCujX3pw8"
+        },
+        {
+            "id": 109,
+            "title": "Ant-man and the Wasp",
+            "image": "https://m.media-amazon.com/images/M/MV5BYjcyYTk0N2YtMzc4ZC00Y2E0LWFkNDgtNjE1MzZmMGE1YjY1XkEyXkFqcGdeQXVyMTMxODk2OTU@._V1_.jpg",
+            "rating": "7.0",
+            "releaseyear": "2018",
+            "trailer": "UUkn-enk2RU"
+        },
+        {
+            "id": 110,
+            "title": "Avengers: Infinity War",
+            "image": "https://m.media-amazon.com/images/M/MV5BMjMxNjY2MDU1OV5BMl5BanBnXkFtZTgwNzY1MTUwNTM@._V1_.jpg",
+            "rating": "8.4",
+            "releaseyear": "2018",
+            "trailer": "QwievZ1Tx-8"
+        },
+        {
+            "id": 111,
+            "title": "Black Panther",
+            "image": "https://m.media-amazon.com/images/M/MV5BMTg1MTY2MjYzNV5BMl5BanBnXkFtZTgwMTc4NTMwNDI@._V1_.jpg",
+            "rating": "7.3",
+            "releaseyear": "2018",
+            "trailer": "xjDjIWPwcPU"
+        },
+        {"id": 112,
+            "title": "Thor: Ragnarok",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorragnarok_lob_crd_03.jpg",
+            "rating": "7.9",
+            "releaseyear": "2017",
+            "trailer": "ue80QwXMRHg"
+        },
+        {
+            "id": 113,
+            "title": "Spider-man: Homecoming",
+            "image": "https://upload.wikimedia.org/wikipedia/en/f/f9/Spider-Man_Homecoming_poster.jpg",
+            "rating": "7.4",
+            "releaseyear": "2017",
+            "trailer": "rk-dF1lIbIg"
+        },
+        {
+            "id": 114,
+            "title": "Guardians of the Galaxy Vol. 2",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/guardiansofthegalaxyvol.2_lob_crd_01.jpg",
+            "rating": "7.6",
+            "releaseyear": "2017",
+            "trailer": "dW1BIid8Osg"
+        },
+        {
+            "id": 115,
+            "title": "Doctor Strange",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/doctorstrange_lob_crd_01_6.jpg",
+            "rating": "7.5",
+            "releaseyear": "2016",
+            "trailer": "h7gvFravm4A"
+        },
+        {
+            "id": 116,
+            "title": "Captain America: Civil War",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericacivilwar_lob_crd_01_9.jpg",
+            "rating": "7.8",
+            "releaseyear": "2016",
+            "trailer": "dKrVegVI0Us"
+        },
+        {
+            "id": 117,
+            "title": "Ant-man",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ant-man_lob_crd_01_8.jpg",
+            "rating": "7.3",
+            "releaseyear": "2015",
+            "trailer": "pWdKf3MneyI"
+        },
+        {
+            "id": 118,
+            "title": "Avengers: Age of Ultron",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/avengersageofultron_lob_crd_03.jpg",
+            "rating": "7.3",
+            "releaseyear": "2015",
+            "trailer": "JAUoeqvedMo"
+        },
+        {
+            "id": 119,
+            "title": "Guardians of the Galaxy",
+            "image": "https://m.media-amazon.com/images/M/MV5BZTkwZjU3MTctMGExMi00YjU5LTgwMDMtOWNkZDRlZjQ4NmZhXkEyXkFqcGdeQXVyNjAwNDUxODI@._V1_.jpg",
+            "rating": "8.0",
+            "releaseyear": "2014",
+            "trailer": "d96cjJhvlMA"
+        },
+        {
+            "id": 120,
+            "title": "Captain Americe: The Winter Soldier",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamericathewintersoldier_lob_crd_01_1.jpg",
+            "rating": "7.8",
+            "releaseyear": "2014",
+            "trailer": "tbayiPxkUMM"
+        },
+        {
+            "id": 121,
+            "title": "Thor: The Dark World",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thorthedarkworld_lob_crd_02_1.jpg",
+            "rating": "6.8",
+            "releaseyear": "2013",
+            "trailer": "npvJ9FTgZbM"
+        },
+        {
+            "id": 122,
+            "title": "Iron Man 3",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman3_lob_crd_01_10.jpg",
+            "rating": "7.1",
+            "releaseyear": "2013",
+            "trailer": "YLorLVa95Xo"
+        },
+        {
+            "id": 123,
+            "title": "The Avengers",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theavengers_lob_crd_03.jpg",
+            "rating": "8.0",
+            "releaseyear": "2012",
+            "trailer": "hIR8Ar-Z4hw"
+        },
+        {
+            "id": 124,
+            "title": "Captain America: The First Avenger",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/captainamerica_lob_crd_01.jpg",
+            "rating": "6.9",
+            "releaseyear": "2011",
+            "trailer": "W4DlMggBPvc"
+        },
+        {
+            "id": 125,
+            "title": "Thor",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thor_lob_crd_01.jpg",
+            "rating": "7.0",
+            "releaseyear": "2011",
+            "trailer": "JOddp-nlNvQ"
+        },
+        {
+            "id": 126,
+            "title": "Iron Man 2",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman2_lob_crd_01_3.jpg",
+            "rating": "6.9",
+            "releaseyear": "2010",
+            "trailer": "wKtcmiifycU"
+        },
+        {
+            "id": 127,
+            "title": "The Incredible Hulk",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theincrediblehulk_lob_crd_01_2.jpg",
+            "rating": "6.6",
+            "releaseyear": "2008",
+            "trailer": "xbqNb2PFKKA"
+        },
+        
+        {
+            "id": 128,
+            "title": "Iron Man",
+            "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironman_lob_crd_01_3.jpg",
+            "rating": "7.9",
+            "releaseyear": "2008",
+            "trailer": "8ugaeA-nMTc"
+        }
+]

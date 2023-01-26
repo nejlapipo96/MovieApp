@@ -1,0 +1,178 @@
+[
+    {
+        "id" : 300,
+        "title": "The Guardians of the Galaxy Holiday Special",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/theguardiansofthegalaxyholidayspecial_lob_crd_02.jpg",
+        "rating": "0",
+        "releaseyear": "2022",
+        "trailer": "OYhFFQl4fLs"
+    },
+    {
+        "id" : 301,
+        "title": "Werewolf By Night",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/werewolfbynight_lob_crd_01.jpg",
+        "rating": "7.3",
+        "releaseyear": "2022",
+        "trailer": "bLEFqhS5WmI"
+    },
+    {
+        "id" : 302,
+        "title": "I Am Groot",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/iamgroot_lob_crd_04.jpg",
+        "rating": "6.7",
+        "releaseyear": "2022",
+        "trailer": "D7eFpRf4tac"
+    },
+    {
+        "id" : 303,
+        "title": "Ms. Marvel",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmQ3OTZkNDUtNTU0Mi00ZjE4LTgyNTUtY2E4NWRmNDUxMzkyXkEyXkFqcGdeQXVyMDM2NDM2MQ@@._V1_.jpg",
+        "rating": "6.2",
+        "releaseyear": "2022",
+        "trailer": "m9EX0f6V11Y"
+    },
+    {
+        "id" : 304,
+        "title": "Moon Knight",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTc5OWNhYjktMThlOS00ODUxLTgwNDQtZjdjYjkyM2IwZTZlXkEyXkFqcGdeQXVyNTA3MTU2MjE@._V1_FMjpg_UX1000_.jpg",
+        "rating": "7.3",
+        "releaseyear": "2022",
+        "trailer": "x7Krla_UxRg"
+    },
+    {
+        "id" : 305,
+        "title": "Hawkeye",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/2x/hawkeye_lob_crd_04.jpg",
+        "rating": "7.5",
+        "releaseyear": "2021",
+        "trailer": "5VYb3B1ETlk"
+    },
+    {
+        "id" : 306,
+        "title": "What If...?",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/whatif_lob_crd_01.jpg",
+        "rating": "7.4",
+        "releaseyear": "2021",
+        "trailer": "x9D0uUKJ5KI"
+    },
+    {
+        "id" : 307,
+        "title": "Loki",
+        "image": "https://m.media-amazon.com/images/M/MV5BNTkwOTE1ZDYtODQ3Yy00YTYwLTg0YWQtYmVkNmFjNGZlYmRiXkEyXkFqcGdeQXVyNTc4MjczMTM@._V1_.jpg",
+        "rating": "8.2",
+        "releaseyear": "2021",
+        "trailer": "nW948Va-l10"
+    },
+    {
+        "id" : 308,
+        "title": "The Falcon and the Winter Soldier",
+        "image": "https://m.media-amazon.com/images/M/MV5BODNiODVmYjItM2MyMC00ZWQyLTgyMGYtNzJjMmVmZTY2OTJjXkEyXkFqcGdeQXVyNzk3NDUzNTc@._V1_.jpg",
+        "rating": "7.2",
+        "releaseyear": "2021",
+        "trailer": "IWBsDaFWyTE"
+    },
+    {
+        "id" : 309,
+        "title": "WandaVison",
+        "image": "https://lumiere-a.akamaihd.net/v1/images/p_wandavision_disneyplus_poster03_20118_66028c77.jpeg",
+        "rating": "7.9",
+        "releaseyear": "2021",
+        "trailer": "sj9J2ecsSpo"
+    },
+    {
+        "id" : 315,
+        "title": "Marvel's Agents of S.H.I.E.L.D.",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agentsofshields7_lob_crd_04.jpg",
+        "rating": "7.5",
+        "releaseyear": "2013-2020",
+        "trailer": "T3T-evQZiQo"
+    },
+    {
+        "id" : 313,
+        "title": "The Gifted",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/thegifteds2_lob_crd_01.jpg",
+        "rating": "7.3",
+        "releaseyear": "2017-2019",
+        "trailer": "3pDdXYf3nfc"
+    },
+    {
+        "id" : 312,
+        "title": "Marvel's Cloak and Dagger",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/cloakanddagger_lob_crd_02_1.jpg",
+        "rating": "6.6",
+        "releaseyear": "2018-2019",
+        "trailer": "kxtxVXvlMW0"
+    },
+    {
+        "id" : 310,
+        "title": "Marvel's Runaways",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/runaways_s3_lob_crd_03.jpg",
+        "rating": "6.9",
+        "releaseyear": "2017-2019",
+        "trailer": "y-OJVwUG76k"
+    },
+    {
+        "id" : 311,
+        "title": "Legion",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/legion_lob_crd_04.jpg",
+        "rating": "8.2",
+        "releaseyear": "2017-2019",
+        "trailer": "4SZ3rMMYBLY"
+    },
+    {
+        "id" : 320,
+        "title": "Jessica Jones",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/jessicajoness3_lob_crd_04.jpg",
+        "rating": "7.9",
+        "releaseyear": "2015-2019",
+        "trailer": "nWHUjuJ8zxE"
+    },
+    {
+        "id" : 319,
+        "title": "Luke Cage",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/lukecages2_lob_crd_03.jpg",
+        "rating": "7.3",
+        "releaseyear": "2016-2018",
+        "trailer": "ORa4hPhGrpo"
+    },
+    {
+        "id" : 321,
+        "title": "Iron Fist",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/ironfists2_lob_crd_02.jpg",
+        "rating": "6.4",
+        "releaseyear": "2017-2018",
+        "trailer": "f9OKL5no-S0"
+    },
+    {
+        "id" : 323,
+        "title": "Daredevil",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/daredevilss3_lob_crd_02.jpg",
+        "rating": "8.6",
+        "releaseyear": "2015-2018",
+        "trailer": "jAy6NJ_D5vU"
+    },
+    {
+        "id" : 314,
+        "title": "Inhumans",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/inhumanss1_lob_crd_02.jpg",
+        "rating": "4.9",
+        "releaseyear": "2017",
+        "trailer": "1sYF1SXcWqQ"
+    },
+    {
+        "id" : 322,
+        "title": "The Defenders",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/defenderss1_lob_crd_03.jpg",
+        "rating": "7.2",
+        "releaseyear": "2017",
+        "trailer": "jYvHxEEgrPA"
+    },
+    {
+        "id" : 318,
+        "title": "Agent Carter",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/agentcarters2_lob_crd_03.jpg",
+        "rating": "7.9",
+        "releaseyear": "2015-2016",
+        "trailer": "m1_cN43mGkc"
+    }    
+]

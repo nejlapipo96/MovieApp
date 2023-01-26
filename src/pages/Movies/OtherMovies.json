@@ -1,0 +1,274 @@
+[
+    {
+        "id": 233,
+        "title": "Morbius",
+        "image": "https://upload.wikimedia.org/wikipedia/en/thumb/2/2f/Morbius_%28film%29_poster.jpg/220px-Morbius_%28film%29_poster.jpg",
+        "rating": "5.2",
+        "releaseyear": "2022",
+        "trailer": "oZ6iiRrz1SY"
+    },
+    {
+        "id": 232,
+        "title": "Venom: Let There Be Carnage",
+        "image": "https://noguiltlife.com/wp-content/uploads/2021/09/venom-2-movie-poster.jpg.webp",
+        "rating": "5.9",
+        "releaseyear": "2021",
+        "trailer": "-FmWuCgJmxo"
+    },
+    {
+        "id": 231,
+        "title": "The New Mutants",
+        "image": "https://upload.wikimedia.org/wikipedia/en/1/1a/TheNewMutantsPoster.jpeg",
+        "rating": "5.3",
+        "releaseyear": "2020",
+        "trailer": "W_vJhUAOFpI"
+    },
+    {
+        "id": 200,
+        "title": "X-Men: Dark Phoenix",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/darkphoenix_lob_crd_01.jpg",
+        "rating": "5.7",
+        "releaseyear": "2019",
+        "trailer": "1-q8C_c-nlM"
+    },
+    {
+        "id": 201,
+        "title": "Deadpool 2",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/deadpool2_lob_crd_02.jpg",
+        "rating": "7.7",
+        "releaseyear": "2018",
+        "trailer": "20bpjtCbCz0"
+    },
+    {
+        "id": 230,
+        "title": "Venom",
+        "image": "https://www.sonypictures.com/sites/default/files/styles/max_560x840/public/title-key-art/venom_onesheet_1400x2100_rated.png?itok=0tO6umMg",
+        "rating": "6.6",
+        "releaseyear": "2018",
+        "trailer": "u9Mv98Gr5pY"
+    },
+    {
+        "id": 202,
+        "title": "Logan",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/logan_lob_crd_02.jpg",
+        "rating": "8.1",
+        "releaseyear": "2017",
+        "trailer": "Div0iP65aZo"
+    },
+    {
+        "id": 203,
+        "title": "X-Men: Apocalypse",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fox_x-menapocalypse_lob_crd_01.jpg",
+        "rating": "6.9",
+        "releaseyear": "2016",
+        "trailer": "PfBVIHgQbYk"
+    },
+    {
+        "id": 204,
+        "title": "Deadpool",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/deadpool_lob_crd_02.jpg",
+        "rating": "8.0",
+        "releaseyear": "2016",
+        "trailer": "ONHBaC-pfsk"
+    },
+    {
+        "id": 205,
+        "title": "Fantastic Four",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTk0OTMyMDA0OF5BMl5BanBnXkFtZTgwMzY5NTkzNTE@._V1_.jpg",
+        "rating": "4.3",
+        "releaseyear": "2015",
+        "trailer": "_rRoD28-WgU"
+    },
+    {
+        "id": 206,
+        "title": "X-Men: Day of Future Past",
+        "image": "https://terrigen-cdn-dev.marvel.com/content/prod/1x/fox_x-mendaysoffuturepast_lob_crd_01.jpg",
+        "rating": "7.9",
+        "releaseyear": "2014",
+        "trailer": "pK2zYHWDZKo"
+    },
+    {
+        "id": 207,
+        "title": "The Amazing Spider-Man 2",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTA5NDYxNTg0OV5BMl5BanBnXkFtZTgwODE5NzU1MTE@._V1_.jpg",
+        "rating": "6.6",
+        "releaseyear": "2014",
+        "trailer": "nbp3Ra3Yp74"
+    },
+    {
+        "id": 208,
+        "title": "The Wolverine",
+        "image": "https://m.media-amazon.com/images/M/MV5BNzg1MDQxMTQ2OF5BMl5BanBnXkFtZTcwMTk3MjAzOQ@@._V1_FMjpg_UX1000_.jpg",
+        "rating": "6.7",
+        "releaseyear": "2013",
+        "trailer": "I92nGRqno9A"
+    },
+    {
+        "id": 209,
+        "title": "The Amazing Spider-Man",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjMyOTM4MDMxNV5BMl5BanBnXkFtZTcwNjIyNzExOA@@._V1_FMjpg_UX1000_.jpg",
+        "rating": "6.9",
+        "releaseyear": "2012",
+        "trailer": "-tnxzJ0SSOw"
+    },
+    {
+        "id": 210,
+        "title": "Ghost Rider: Spirit of Vengeance",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDEwMGRmY2YtZTFmNy00YmFkLWFlZGItZGE0ZjNiMjRmZjZlXkEyXkFqcGdeQXVyMTUyOTc1NDYz._V1_.jpg",
+        "rating": "4.3",
+        "releaseyear": "2011",
+        "trailer": "ZFHyPLaENRE"
+    },
+    {
+        "id": 211,
+        "title": "X-Men: The First Class",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTg5OTMxNzk4Nl5BMl5BanBnXkFtZTcwOTk1MjAwNQ@@._V1_FMjpg_UX1000_.jpg",
+        "rating": "7.7",
+        "releaseyear": "2011",
+        "trailer": "kyQKi5-k0UU"
+    },
+    {
+        "id": 212,
+        "title": "X-Men Origin: Wolverine",
+        "image": "https://upload.wikimedia.org/wikipedia/en/0/08/X-Men_Origins_Wolverine_theatrical_poster.jpg",
+        "rating": "6.5",
+        "releaseyear": "2009",
+        "trailer": "8IxT7WFL6Ec"
+    },
+    {
+        "id": 213,
+        "title": " Punisher: War Zone",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDc1ODUyMzUtNDBkZS00YThiLWEzMjEtMGRlOTIzZWU2ZDdmXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "rating": "5.9",
+        "releaseyear": "2008",
+        "trailer": "bTdbeXHMzwg"
+    },
+    {
+        "id": 214,
+        "title": "Fantastic Four: Rise of the Silver Surfer",
+        "image": "https://m.media-amazon.com/images/M/MV5BODA4YTc5N2QtNzQyYS00ZDUzLWI3M2UtZWI2OWVhOGZlN2MxXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "rating": "5.6",
+        "releaseyear": "2007",
+        "trailer": "Wiu5eZ_7vSY"
+    },
+    {
+        "id": 215,
+        "title": "Spider-Man 3",
+        "image": "https://m.media-amazon.com/images/M/MV5BYTk3MDljOWQtNGI2My00OTEzLTlhYjQtOTQ4ODM2MzUwY2IwXkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_FMjpg_UX1000_.jpg",
+        "rating": "6.3",
+        "releaseyear": "2007",
+        "trailer": "wPosLpgMtTY"
+    },
+    {
+        "id": 216,
+        "title": "Ghost Rider",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzIyNDE5ODI1OV5BMl5BanBnXkFtZTcwNTIyNDE0MQ@@._V1_.jpg",
+        "rating": "5.2",
+        "releaseyear": "2007",
+        "trailer": "QvoofruuWk8"
+    },
+    {
+        "id": 217,
+        "title": "X-Men: The Last Stand",
+        "image": "https://m.media-amazon.com/images/M/MV5BNDBhNDJiMWEtOTg4Yi00NTYzLWEzOGMtMjNmNjAxNTBlMzY3XkEyXkFqcGdeQXVyNTIzOTk5ODM@._V1_.jpg",
+        "rating": "6.6",
+        "releaseyear": "2006",
+        "trailer": "ZQ0v5dXbw7M"
+    },
+    {
+        "id": 218,
+        "title": "Fantastic Four",
+        "image": "https://upload.wikimedia.org/wikipedia/en/4/4a/Fantastic_Four_poster.jpg",
+        "rating": "5.7",
+        "releaseyear": "2005",
+        "trailer": "YP-UetX2qX0"
+    },
+    {
+        "id": 219,
+        "title": "Elektra",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTI3MTUwNzM5MV5BMl5BanBnXkFtZTcwNzczMDIzMw@@._V1_FMjpg_UX1000_.jpg",
+        "rating": "4.7",
+        "releaseyear": "2005",
+        "trailer": "XGnADb5e0mc"
+    },
+    {
+        "id": 220,
+        "title": "Blade: Trinity",
+        "image": "https://upload.wikimedia.org/wikipedia/en/8/86/Blade_Trinity_poster.JPG",
+        "rating": "5.8",
+        "releaseyear": "2004",
+        "trailer": "fPcNbsW69Eg"
+    },
+    {
+        "id": 221,
+        "title": "Spider-Man 2",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzY2ODk4NmUtOTVmNi00ZTdkLTlmOWYtMmE2OWVhNTU2OTVkXkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "rating": "7.4",
+        "releaseyear": "2004",
+        "trailer": "1s9Yln0YwCw"
+    },
+    {
+        "id": 222,
+        "title": "The Punisher",
+        "image": "https://m.media-amazon.com/images/M/MV5BMjI5NjcwMTQxMV5BMl5BanBnXkFtZTcwODg5ODkwNQ@@._V1_.jpg",
+        "rating": "6.4",
+        "releaseyear": "2004",
+        "trailer": "q7CMnRv8Mqc"
+    },
+    {
+        "id": 223,
+        "title": "The Hulk",
+        "image": "https://m.media-amazon.com/images/M/MV5BMzQwZDg1MGEtN2E5My00ZDJlLWI4MzItM2U2MjJhYzlkNmEzXkEyXkFqcGdeQXVyNDAxNjkxNjQ@._V1_FMjpg_UX1000_.jpg",
+        "rating": "5.6",
+        "releaseyear": "2003",
+        "trailer": "2ErnLuJKQA4"
+    },
+    {
+        "id": 224,
+        "title": "X2: X-Men United",
+        "image": "https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTGOdwY20opTK6dnTxh2zncELJdexrZH9N6-Z_uHWfrH5aMlGsiXHUpVbt6b3lJzgaYIJ4&usqp=CAU",
+        "rating": "7.4",
+        "releaseyear": "2003",
+        "trailer": "luHcOYS1HxQ"
+    },
+    {
+        "id": 225,
+        "title": "Daredevil",
+        "image": "https://m.media-amazon.com/images/M/MV5BMTgzOTM4MTg1MV5BMl5BanBnXkFtZTcwODY1OTY4NA@@._V1_.jpg",
+        "rating": "5.3",
+        "releaseyear": "2003",
+        "trailer": "Y6p_3s0d9TI"
+    },
+    {
+        "id": 226,
+        "title": "Spider-Man",
+        "image": "https://m.media-amazon.com/images/M/MV5BZDEyN2NhMjgtMjdhNi00MmNlLWE5YTgtZGE4MzNjMTRlMGEwXkEyXkFqcGdeQXVyNDUyOTg3Njg@._V1_.jpg",
+        "rating": "7.4",
+        "releaseyear": "2002",
+        "trailer": "_yhFofFZGcc"
+    },
+    {
+        "id": 227,
+        "title": "Blade 2",
+        "image": "https://m.media-amazon.com/images/M/MV5BOWVjZTIzNDYtNTBlNC00NTJjLTkzOTEtOTE0MjlhYzI2YTcyXkEyXkFqcGdeQXVyNTAyODkwOQ@@._V1_FMjpg_UX1000_.jpg",
+        "rating": "6.7",
+        "releaseyear": "2002",
+        "trailer": "vAUB7dcUn8o"
+    },
+    {
+        "id": 228,
+        "title": "X-Man",
+        "image": "https://m.media-amazon.com/images/M/MV5BZmIyMDk5NGYtYjQ5NS00ZWQxLTg2YzQtZDk1ZmM4ZDBlN2E3XkEyXkFqcGdeQXVyMTQxNzMzNDI@._V1_.jpg",
+        "rating": "7.3",
+        "releaseyear": "2000",
+        "trailer": "VNxwlx6etXI"
+    },
+    {
+        "id": 229,
+        "title": "Blade",
+        "image": "https://m.media-amazon.com/images/M/MV5BOTk2NDNjZWQtMGY0Mi00YTY2LWE5MzctMGRhZmNlYzljYTg5XkEyXkFqcGdeQXVyMTAyNjg4NjE0._V1_.jpg",
+        "rating": "7.1",
+        "releaseyear": "1998",
+        "trailer": "kaU2A7KyOu4"
+    }  
+]

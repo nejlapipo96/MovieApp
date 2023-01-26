@@ -1,0 +1,57 @@
+.insider-container {
+    width: 100%;
+    height: 280px;
+    display: flex;
+    background-color: #000;
+    margin: 80px 0;
+}
+
+.insider-container img {
+    width: 540px;
+    height: 100%;
+}
+
+.insider-info {
+    width: 100%;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+    gap: 20px 0;
+    color: white;
+}
+
+.insider-info h4 {
+    color: #EB5757;
+    text-transform: uppercase;
+    font-size: 18px;
+}
+
+.insider-info h2 {
+    font-size: 30px;
+}
+
+.insider-info p {
+    font-size: 12px;
+}
+
+.insider-info button {
+    width: 130px;
+    height: 40px;
+    background-color: #EB5757;
+    text-transform: uppercase;
+    font-size: 15px;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.insider-info button:hover {
+    background-color: #c24747;
+}
+
+.insider-info a {
+    text-decoration: none;
+    color: white;
+}

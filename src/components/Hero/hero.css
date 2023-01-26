@@ -1,0 +1,73 @@
+.hero-container {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    gap: 0 5px;
+    width: 1066px;
+    margin-top: 80px;
+}
+
+.hero-text {
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-items: flex-start;
+    width: 100%;
+    gap: 20px 0;
+}
+
+.hero-text .title {
+    font-size: 48px;
+    color: white;
+    font-weight: bold;
+}
+
+.hero-text .release-date {
+    color: white;
+    font-size: 20px;
+    font-weight: 200;
+}
+
+.hero-text .stats {
+    display: flex;
+    align-items: center;
+}
+
+.hero-text .stats .rating-text {
+    color: white;
+    font-size: 20px;
+    font-weight: 300;
+}
+
+.hero-text .stats i {
+    color: #F2C94C;
+    padding: 0 6px;
+}
+
+.hero-text .stats .rating {
+    color: white;
+}
+
+.btn {
+    width: 150px;
+    height: 45px;
+    background-color: #EB5757;
+    color: black;
+    text-transform: uppercase;
+    font-size: 18px;
+    font-weight: bold;
+    border: none;
+    border-radius: 50px;
+    cursor: pointer;
+}
+
+.btn:hover {
+    background-color: #c24747;
+}
+
+.hero-img img{
+    width: 708px;
+    height: 369px;
+    border-radius: 20px;
+    box-shadow: 20px 20px 35px rgba(102, 101, 101, 0.4);
+}
